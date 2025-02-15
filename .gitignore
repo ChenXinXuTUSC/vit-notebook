@@ -1,0 +1,8 @@
+/data/
+/build/
+/reference/
+/log/
+__pycache__/
+
+*.bin
+*.out
